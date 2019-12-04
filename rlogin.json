@@ -1,0 +1,11 @@
+{
+    "version": "2.24.6",
+    "url": "http://nanno.dip.jp/softlib/rlogin/2.24.6/rlogin_x64.zip",
+    "bin": "rlogin.exe",
+    "shortcuts": [
+        [
+            "rlogin.exe",
+            "rlogin"
+        ]
+    ]
+}
