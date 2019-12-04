@@ -1,6 +1,17 @@
 {
+    "homepage": "http://nanno.dip.jp/softlib/man/rlogin/",
     "version": "2.24.6",
-    "url": "http://nanno.dip.jp/softlib/rlogin/2.24.6/rlogin_x64.zip",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "http://nanno.dip.jp/softlib/rlogin/2.24.6/rlogin_x64.zip",
+            "hash": ""
+        },
+        "32bit": {
+            "url": "http://nanno.dip.jp/softlib/rlogin/2.24.6/rlogin.zip",
+            "hash": ""
+        }
+    },
     "bin": "rlogin.exe",
     "shortcuts": [
         [
