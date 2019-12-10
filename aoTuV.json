@@ -1,0 +1,11 @@
+{
+    "homepage": "https://ao-yumi.github.io/aotuv_web/index.html",
+    "version": "b6.03_2018",
+    "license": "MIT",
+    "url": "https://ao-yumi.github.io/aotuv_web/binary/aoTuV_b6.03_2018.7z",
+    "bin": "",
+    "shortcuts": [
+        [ "venc64.exe", "venc64" ],
+        [ "venc.exe", "venc" ]
+    ]
+}
