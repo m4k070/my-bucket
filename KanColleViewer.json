@@ -1,0 +1,13 @@
+{
+    "homepage": "http://grabacr.net/kancolleviewer",
+    "version": "4.5.1",
+    "license": "MIT",
+    "url": "https://github.com/Grabacr07/KanColleViewer/releases/download/v4.5.1/KanColleViewer.ver.4.5.zip",
+    "bin": "KanColleViewer ver.4.5\\KanColleViewer.exe",
+    "shortcuts": [
+        [
+            "KanColleViewer ver.4.5\\KanColleViewer.exe",
+            "KanColleViewer"
+        ]
+    ]
+}
