@@ -12,11 +12,11 @@
             "hash": "1d022d26d605782f7732030dda7672585b975241e4a35dba93558f61d4c26d6b"
         }
     },
-    "bin": "Mery\mery.exe",
+    "bin": "Mery\\Mery.exe",
     "shortcuts": [
         [
-            "mery.exe",
-            "mery"
+            "Mery\\Mery.exe",
+            "Mery"
         ]
     ]
 }
