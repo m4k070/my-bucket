@@ -4,11 +4,11 @@
     "license": "",
     "architecture": {
         "64bit": {
-            "url": "http://download.haijin-boys.com/download/Mery-x64-3.5.4.zip",
+            "url": "https://www.haijin-boys.com/download/Mery-x64-3.5.4.zip",
             "hash": "3ba4580681af6e3737887e26ca43ba4c1b137b733a108873b41878b366120c6e"
         },
         "32bit": {
-            "url": "http://download.haijin-boys.com/download/Mery-3.5.4.zip",
+            "url": "https://www.haijin-boys.com/download/Mery-3.5.4.zip",
             "hash": "bf2e7a6c45d98c5e56bafd5ef06bf1d87820739bbef247d93c1546a11e8ceff6"
         }
     },
