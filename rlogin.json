@@ -4,11 +4,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "http://nanno.dip.jp/softlib/rlogin/2.25.5/rlogin_x64.zip",
+            "url": "http://nanno.dip.jp/softlib/rlogin/2.28.2/rlogin_x64.zip",
             "hash": ""
         },
         "32bit": {
-            "url": "http://nanno.dip.jp/softlib/rlogin/2.25.5/rlogin.zip",
+            "url": "http://nanno.dip.jp/softlib/rlogin/2.28.2/rlogin.zip",
             "hash": ""
         }
     },

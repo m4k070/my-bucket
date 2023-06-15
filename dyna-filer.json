@@ -4,11 +4,11 @@
     "license": "",
     "architecture": {
         "64bit": {
-            "url": "https://hp.vector.co.jp/authors/VA004117/dyna314_x64.zip",
+            "url": "https://dynaprj.bitbucket.io/archives/dyna334_x64.zip",
             "hash": ""
         },
         "32bit": {
-            "url": "https://hp.vector.co.jp/authors/VA004117/dyna314.zip",
+            "url": "https://hp.vector.co.jp/authors/VA004117/dyna334.zip",
             "hash": ""
         }
     },
